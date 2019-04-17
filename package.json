@@ -1,0 +1,15 @@
+{
+  "name": "talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asymetric.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-hcrypt": "0.0.8",
+    "ursa-purejs": "0.0.3"
+  }
+}
