@@ -1,5 +1,5 @@
-# Ressources encryption talk
-Ressources if a talk I made at Epitech on [symetric / asymetric / homomorphic] cipher
+# Resources encryption talk
+Resources of talk I made at Epitech on [symetric / asymetric / homomorphic] cipher
 
 # Requirment
 
